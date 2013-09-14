@@ -1,0 +1,22 @@
+{
+  "name": "alphabetical",
+  "version": "0.0.1",
+  "description": "Test a list of words to find ones which are alphabetical",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/growlybear/alphabetical.git"
+  },
+  "keywords": [
+    "words",
+    "alphabetical"
+  ],
+  "author": "Michael Allan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/growlybear/alphabetical/issues"
+  }
+}
