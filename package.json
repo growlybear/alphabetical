@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "mocha": "~1.12.1",
-    "chai": "~1.7.2"
+    "chai": "~1.7.2",
+    "mocha-runner": "0.0.4"
   }
 }
